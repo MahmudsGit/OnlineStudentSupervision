@@ -1,4 +1,4 @@
 # OnlineStudentSupervision
 
-Full Project & Documentation is in-
-Google Drive Link: https://drive.google.com/drive/folders/1-VgDZCrbppq-uq6gehN1sAsZLRgPyvX1?usp=sharing
+Full Project & Documentation belongs in Google Drive.
+Link: https://drive.google.com/drive/folders/1-VgDZCrbppq-uq6gehN1sAsZLRgPyvX1?usp=sharing
